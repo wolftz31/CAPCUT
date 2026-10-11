@@ -1,6 +1,6 @@
 {
   "packageName": "com.lemon.lvoverseas",
-  "versionName": "30.0.0",
+  "versionName": "25.0.0",
   "forceUpdate": false,
   "ExpiredDate": "2022/11/22 02:20",
   "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
@@ -8,8 +8,8 @@
   "buttonUrl": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29",
   "cancelButtonText": "Close",
   "appListButton": {
-    "iconUrl1": "https://bit.ly/EM_ClickMe",
-    "iconUrl2": "https://bit.ly/EM_ClickMe2"
+    "iconUrl1": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29",
+    "iconUrl2": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
   },
   "appList": [
     {
@@ -22,37 +22,37 @@
       "iconUrl": "https://bit.ly/icon_PandaVPN",
       "appName": "Panda VPN Lifetime",
       "appVersion": "8.0.1",
-      "url": "https://t.me/c/2138847088/1281"
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     },
     {
       "iconUrl": "https://bit.ly/icon_Remini",
       "appName": "Remini PRO",
       "appVersion": "3.7.1070.202515697",
-      "url": "https://t.me/c/2138847088/1324"
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     },
     {
       "iconUrl": "ADD_YOU_IMAGE",
       "appName": "Unknown",
       "appVersion": "0.0.0",
-      "url": "https://telegram.me/EpicModder"
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     }
   ],
   "epicList": [
     {
       "iconUrl": "https://bit.ly/EpicModderProfile",
-      "url": "https://telegram.me/EpicModder"
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     },
     {
       "iconUrl": "https://bit.ly/itshehzadaProfile",
-      "url": ""
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     },
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
-      "url": ""
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     },
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png",
-      "url": ""
+      "url": "https://whatsapp.com/channel/0029Vb7IqmWKAwEcKWU4Xv29"
     }
   ]
 }
